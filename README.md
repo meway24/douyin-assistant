@@ -5,9 +5,6 @@ If you want need contact with me: kkbbcc@foxmail.com
 
 Douyin sharp tool,floating window,copy sharp url to get raw video
 
-Document
-
-https://www.showdoc.cc/961760445765056?page_id=5011471547000178
 
 
 ## Fixed
