@@ -26,9 +26,6 @@ Please use correctly and pay attention to copyright. This tool is only for perso
   <a><img src="./snapshoot/WX20200517-173855@2x.png" height="30%" width="30%"></a>           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
-## TTiktok 1105 滑动验证码接口
-##### 提供滑块x坐标识别 99.99%准确率
-
 
 ## 服务端加解密调用接口文档  Gorgon Xlog TTEncrypt
 
